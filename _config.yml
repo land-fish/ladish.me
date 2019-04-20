@@ -24,7 +24,7 @@ github_username: land-fish
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll 
 plugins:
   - jekyll-feed
 
