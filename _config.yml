@@ -16,9 +16,8 @@
 title: Jeffrey Ladish Internet Place
 email: secrets@landfish.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Applying the security mindest to everything."
+
 baseurl: /
 url: https://ladish.me
 twitter_username: jeffladish
@@ -62,7 +61,7 @@ plugins:
 author:
   name   : "Jeffrey Ladish"
   avatar : "/assets/images/jeffrey1.jpg"
-  bio    : "Jeffrey is busy applying the security mindest to everything. How can human civilization survive the century despite powerful emerging technology?"
+  bio    : "Applying the security mindest to everything."
   links:
     - label: "Security"
       icon: "fas fa-fw fa-link"
