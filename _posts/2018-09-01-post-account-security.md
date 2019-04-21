@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Setting up 2FA and a Password Manager"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "How to set up Signal Messenger"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

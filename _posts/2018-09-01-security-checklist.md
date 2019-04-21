@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Security Checklist"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
