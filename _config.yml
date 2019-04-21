@@ -64,7 +64,7 @@ author:
   avatar : "/assets/images/jeffrey1.jpg"
   bio    : "Jeffrey is busy applying the security mindest to everything. How can human civilization survive the century despite powerful emerging technology?"
   links:
-    - label: "Security resources for land fish"
+    - label: "Security"
       icon: "fas fa-fw fa-link"
       url: "https://landfish.org"
     - label: "Twitter"
@@ -76,7 +76,7 @@ author:
 
 footer:
   links:
-    - label: "Security resources for land fish"
+    - label: "Security"
       icon: "fas fa-fw fa-link"
       url: "https://landfish.org"
     - label: "Twitter"
