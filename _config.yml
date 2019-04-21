@@ -22,7 +22,7 @@ baseurl: /
 url: https://ladish.me
 twitter_username: jeffladish
 github_username: land-fish
-minimal_mistakes_skin: default
+minimal_mistakes_skin: default 
 search: true
 
 # Build settings
