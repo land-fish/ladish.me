@@ -12,7 +12,7 @@ tags:
 
 Created by Landfish
 
-![image alt text](image_s.png)
+![image alt text](/assets/images/image_s.png)
 
 ## **Android**
 

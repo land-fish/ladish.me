@@ -12,7 +12,7 @@ tags:
 
 Created by Landfish
 
-![image alt text](image_0.png)
+![image alt text](/assets/images/image_0.png)
 
 ## Instructions for using this checklist
 

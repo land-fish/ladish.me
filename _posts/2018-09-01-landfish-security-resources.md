@@ -12,7 +12,7 @@ tags:
 
 Hey friends, I created some resources for securing your accounts.
 
-![image alt text](landfish.jpg)
+![image alt text](/assets/images/landfish.jpg)
 
 ### Instructions for setting up a password manager and 2FA for account security
 

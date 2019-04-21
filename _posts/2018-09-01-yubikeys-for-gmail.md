@@ -25,7 +25,7 @@ This tutorial explains how to configure your account with two security keys and 
 
 Buy two security keys (yubikeys). These two keys can each be used as a second factor to access your account. One is a backup to leave at home in a secure place, and one is to carry with you.
 
-![image alt text](image_y.png)
+![image alt text](/assets/images/image_y.png)
 
 If your computer has normal USB ports, you can buy two of the blue yubikeys for $20 each on [Amazon](https://www.amazon.com/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/ref=sr_1_3?s=pc&ie=UTF8&qid=1534802520&sr=1-3&keywords=yubikey).
 
@@ -41,15 +41,15 @@ Select "Signing into Google"
 
 Next, select "2-Step Verification"
 
-![image alt text](image_1.png)
+![image alt text](/assets/images/image_1.png)
 
 Select "Choose another option". Text message isn't a very secure form of authentication, so we're going to use something better.
 
-![image alt text](image_2.png)
+![image alt text](/assets/images/image_2.png)
 
 Select Security Key, and follow the instructions for adding a security key. Name it something like **MAIN**
 
-![image alt text](image_3.png)
+![image alt text](/assets/images/image_3.png)
 
 Add your **second** security key. Name it something like **BACKUP**
 
@@ -57,7 +57,7 @@ You should now see both keys under "Your second step":
 
 Now, scroll down to the section labeled "Set up alternative second step"
 
-![image alt text](image_4.png)
+![image alt text](/assets/images/image_4.png)
 
 Select "Authenticator app" and follow the instructions when prompted.
 
