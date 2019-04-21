@@ -2,7 +2,7 @@
 title: "Security Checklist"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Security
 tags:
   - Post Formats
   - readability

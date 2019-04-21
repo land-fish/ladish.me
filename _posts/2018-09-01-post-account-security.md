@@ -2,7 +2,7 @@
 title: "Setting up 2FA and a Password Manager"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Security
 tags:
   - Post Formats
   - readability

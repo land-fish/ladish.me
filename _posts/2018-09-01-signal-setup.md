@@ -2,7 +2,7 @@
 title: "How to set up Signal Messenger"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Security
 tags:
   - Post Formats
   - readability

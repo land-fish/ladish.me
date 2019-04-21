@@ -2,7 +2,7 @@
 title: "How to use Yubikeys for your Gmail second factor"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Security
 tags:
   - Post Formats
   - readability

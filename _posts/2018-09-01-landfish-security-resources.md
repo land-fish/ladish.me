@@ -2,7 +2,7 @@
 title: "Landfish's Security Resources"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Security
 tags:
   - Post Formats
   - readability
