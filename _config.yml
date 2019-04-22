@@ -18,7 +18,7 @@ email: secrets@landfish.org
 description: >- # this means to ignore newlines until "baseurl:"
   "Applying the security mindest to everything."
 
-baseurl: /
+baseurl: "/"
 url: https://ladish.me
 twitter_username: jeffladish
 github_username: land-fish
@@ -30,7 +30,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
