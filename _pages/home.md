@@ -5,9 +5,9 @@ title: "Where am I?"
 
 ![image alt text](/assets/images/whereami.jpg)
 
-Welcome to Jeffrey Ladish Internet Place. You might be wondering what kind of place this is. The internet is a rather confusing place. It's not very organized, and lots of people are lying to you much of the time. It's powered by advertisements, which is basically a sanctioned and sophisticated way of lying to you about what's good for you. Alas.
+Welcome to Jeffrey Ladish Internet Place. You might be wondering what kind of place this is. The internet is confusing--it's not very organized, and lots of people are lying to you. In fact, it's powered by advertisements, which is basically a sanctioned and sophisticated way of lying to you about your own preferences! Alas.
 
-On this site, I'll try my best not to lie to you. Ultimately it's very important that we learn how to communicate effectively with each other! That ability is at the root of coordination. And coordination, it turns out, is at the root of everything. 
+On this site, I'll try my best not to lie to you. If we share some common goals, and I bet we do, then it's important that we learn how to communicate effectively with each other! That ability is at the root of coordination. And coordination, it turns out, is at the root of everything important.  
 
 ## How did we get here?
 
