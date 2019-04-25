@@ -5,9 +5,9 @@ title: "Where am I?"
 
 ![image alt text](/assets/images/whereami.jpg)
 
-Welcome to Jeffrey Ladish Internet Place. You might be wondering what kind of place this is. The internet is confusing--it's not very organized, and lots of people are lying to you. In fact, it's powered by advertisements, which is basically a sanctioned and sophisticated way of lying to you about your own preferences! Alas.
+I see you've found your way to my website. You'll find a collection of my work here: Guides to securing your cloud accounts and using end to end encyryption, blog posts on risks from emerging technologies, book and article reviews, and some information about me.
 
-On this site, I'll try my best not to lie to you. If we share some common goals, and I bet we do, then it's important that we learn how to communicate effectively with each other! That ability is at the root of coordination. And coordination, it turns out, is at the root of everything important.  
+If you're interested in the motivation for my work, and how I think we got here, read on...
 
 ## How did we get here?
 
