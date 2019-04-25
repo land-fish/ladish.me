@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Where am I?"
+title: "What am I trying to do here?"
 ---
 
-![image alt text](/assets/images/whereami.jpg)
+![image alt text](/assets/images/monkey.jpg)
 
 Welcome to Jeffrey Ladish Internet Place. You'll find a collection of my work here: [guides](/security/) to securing your online accounts and personal devices, [write-ups](/posts/) on risks from emerging technologies, book and article reviews, and some [information about me](/about/). If you're interested in the motivation for my work, and how I think we got here, read on.
 
