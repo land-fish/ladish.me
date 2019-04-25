@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/jeffrey1.jpg"
   bio    : "Applying the security mindest to everything."
   links:
-    - label: "Security"
+    - label: "Medium"
       icon: "fas fa-fw fa-link"
-      url: "https://landfish.org"
+      url: "https://medium.com/@landfish"
     - label: "jeffladish"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jeffladish"
@@ -75,9 +75,9 @@ author:
 
 footer:
   links:
-    - label: "Security"
+    - label: "Medium"
       icon: "fas fa-fw fa-link"
-      url: "https://landfish.org"
+      url: "https://medium.com/@landfish"
     - label: "jeffladish"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jeffladish"
