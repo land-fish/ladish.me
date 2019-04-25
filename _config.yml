@@ -16,7 +16,7 @@
 title: Jeffrey Ladish Internet Place
 email: secrets@landfish.org
 description: >- # this means to ignore newlines until "baseurl:"
-  "Applying the security mindest to everything."
+  "Applying the security mindset to everything."
 
 baseurl: "/"
 url: https://ladish.me
