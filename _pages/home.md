@@ -5,9 +5,7 @@ title: "Where am I?"
 
 ![image alt text](/assets/images/whereami.jpg)
 
-I see you've found your way to my website. You'll find a collection of my work here: Guides to securing your cloud accounts and using end to end encyryption, blog posts on risks from emerging technologies, book and article reviews, and some information about me.
-
-If you're interested in the motivation for my work, and how I think we got here, read on...
+Welcome to Jeffrey Ladish Internet Place. You'll find a collection of my work here: Guides to securing your cloud accounts and using end to end encyryption, blog posts on risks from emerging technologies, book and article reviews, and some information about me. If you're interested in the motivation for my work, and how I think we got here, read on.
 
 ## How did we get here?
 
