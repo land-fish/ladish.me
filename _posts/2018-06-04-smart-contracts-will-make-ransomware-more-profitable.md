@@ -3,6 +3,7 @@ title: "Smart contracts will make ransomware more profitable part 1"
 categories:
   - Security
   - Blockchain
+  - Medium
 tags:
   - link
 link: https://medium.com/reserve-currency/smart-contracts-will-make-ransomware-more-profitable-part-1-a687fc370320 
