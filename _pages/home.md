@@ -5,7 +5,7 @@ title: "Where am I?"
 
 ![image alt text](/assets/images/whereami.jpg)
 
-Welcome to Jeffrey Ladish Internet Place. You'll find a collection of my work here: [Guides](/security/) to securing your online accounts and personal devices, [posts](/posts/) on risks from emerging technologies, book and article reviews, and some [information about me](/about/). If you're interested in the motivation for my work, and how I think we got here, read on.
+Welcome to Jeffrey Ladish Internet Place. You'll find a collection of my work here: [guides](/security/) to securing your online accounts and personal devices, [posts](/posts/) on risks from emerging technologies, book and article reviews, and some [information about me](/about/). If you're interested in the motivation for my work, and how I think we got here, read on.
 
 ## How did we get here?
 
