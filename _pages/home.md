@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What am I trying to do here?"
+title: "What is this?"
 ---
 
 ![image alt text](/assets/images/monkey.jpg)
