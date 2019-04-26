@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Jeffrey Ladish"
   avatar : "/assets/images/jeffrey1.jpg"
-  bio    : "Applying the security mindest to everything."
+  bio    : "Applying the security mindset to everything."
   links:
     - label: "Medium"
       icon: "fas fa-fw fa-link"
