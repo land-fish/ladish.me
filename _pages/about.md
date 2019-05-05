@@ -13,7 +13,7 @@ defaults:
 
 ![image alt text](/assets/images/jeffrey2.jpg)
  
-Jeffrey is an independent researcher and security consultant based in San Francisco, California.  He has written and spoken about global threats from emerging technologies, from synethic organisms to decentralized assassination markets. He has spoken at Defcon, the Stanford Center for International Security and Cooperation, East Bay Biosecurity, and Effective Altruism Global. Jeffrey has previously worked as chief security officer for Reserve, security researcher at Paradigm Academy, and engineer at Concur Technologies.
+Jeffrey is an independent researcher and security consultant based in San Francisco, California.  He has written and spoken about global threats from emerging technologies, from synthethic organisms to decentralized assassination markets. He has spoken at Defcon, the Stanford Center for International Security and Cooperation, East Bay Biosecurity, and Effective Altruism Global. Jeffrey has previously worked as chief security officer for Reserve, security researcher at Paradigm Academy, and engineer at Concur Technologies.
 
 At some point, we all have to ask ourselves what kind of future we are building. Jeffrey's answer came after a deep dive into emerging technologies and military innovation. Since the invention of nuclear weapons, a terrifying game of nuclear deterrence is all that has kept human civilization from collapsing from the impact of thousands of thermonuclear warheads. While we have achieved temporary stability, the march of technological innovation continues on, creating new threats and opportunities for humanity. 
 
