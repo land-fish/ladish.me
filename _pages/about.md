@@ -19,5 +19,3 @@ At some point, we all have to ask ourselves what kind of future we are building.
 
 Jeffrey studies the intersection of emerging technologies and global conflict. Currently, only states wield technologies powerful enough to threaten global civilization. While nuclear weapons were a clear first in their destructive power and blinding speed, advances in cyber weapons, synthetic biology, and AI will likely bring about new kinds of global threats. Will advances in machine learning harm second strike capabilities of the US, China, and Russia? Will cheap, inexpensive drone technology enable mass assassinations? How can global powers with a past history of nuclear threats and proxy wars coordinate to prevent catastrophes that would be detrimental to everyone?
 
-If these kinds of questions sound like the right questions, not as intellectual exercises but as part of a necessary research agenda, feel free to reach out.
-
