@@ -11,7 +11,7 @@ defaults:
       author_profile: false 
 ---
 
-![image alt text](/assets/images/jeffrey2.jpg)
+![image alt text](/assets/images/jeffrey1.jpg)
  
 Jeffrey is an independent researcher and security consultant based in San Francisco, California.  He has written and spoken about global threats from emerging technologies, from synthethic organisms to decentralized assassination markets. He has spoken at Defcon, the Stanford Center for International Security and Cooperation, East Bay Biosecurity, and Effective Altruism Global. Jeffrey has previously worked as chief security officer for Reserve, security researcher at Paradigm Academy, and engineer at Concur Technologies.
 
