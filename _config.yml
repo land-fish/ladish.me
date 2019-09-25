@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ladish.me
-email: secrets@landfish.org
+title: jeffreyladish.com
+email: secrets@jeffreyladish.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Applying the security mindset to everything."
 
 baseurl: "/"
-url: https://ladish.me
+url: https://jeffreyladish.com
 twitter_username: jeffladish
 github_username: land-fish
 minimal_mistakes_skin: default 
