@@ -5,7 +5,7 @@ categories:
   - Nuclear 
 tags:
 ---
-![image alt text](/assets/images/SF_nuke.png)
+![image alt text](/assets/images/nuke.png)
 
 ## The history of nuclear strategic bombing
 
