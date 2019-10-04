@@ -8,7 +8,6 @@ tags:
   - readability
   - standard
 ---
-# Security Checklist
 
 Created by Landfish
 

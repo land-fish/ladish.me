@@ -8,7 +8,6 @@ tags:
   - readability
   - standard
 ---
-# How to Setup and Use Signal
 
 Created by Landfish
 

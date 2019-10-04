@@ -8,7 +8,6 @@ tags:
   - readability
   - standard
 ---
-# Instructions for setting up a password manager and 2FA for account security
 
 Created by Landfish
 
