@@ -65,7 +65,7 @@ I didn’t explore the “request to book” link, but I’m sure it would have 
 
 # Why am I impressed by this? 🤔
 
-The phishing team—and given the work involved and the level of polish I bet it was a team—ran a pretty tight operation. Their English was perfect, their emails looked professional, and their phishing site looked identical the original Airbnb site. They spoofed the sender email domain "@engineers-hibernia-chevron.ca", which is a real chevron domain name, to ad legitimacy. (Remember that emails can lie to you about their sender address!) 
+The phishing team—and given the work involved and the level of polish I bet it was a team—ran a pretty tight operation. Their English was perfect, their emails looked professional, and their phishing site looked identical the original Airbnb site. The email domain "engineers-hibernia-chevron.ca" redirected to "hibernia.ca" to add legitimacy for those who took the extra step of looking up the domain.
 
 I’m even more impressed by their subtle psychological tricks. Each step of the way, they left out information which required **me** to ask for something if I wanted to proceed. It’s a lot easier to be on your guard when others are asking you for things. When you’re the one doing the asking, it’s even harder to say something when things look strange, because you may already feel like you’re being a burden on their time. For the initial ad, they left out the phone number so I had to ask. After they told me I could look at their airbnb site, I had to ask for a link. Then, after they sent me to search on Airbnb's site, I had to ask for the link **again**! That was deliberately planned! 
 
@@ -73,7 +73,7 @@ Throughout these interactions, they mentioned there were other people looking, m
 
 # Takeaways to protect yourself 🛡
 1. When engaging with strangers online, always check the source of their links! Usually just clicking won't hurt you, but in some cases that is enough. I wasn't 100% sure this was a phishing scam until I saw the fake Airbnb URL, but that confirmed it.
-2. Remember sender email addresses can be spoofed! Just because you recieve an email from "investigations@fbi.gov" does not mean the FBI has sent you an email.
+2. Remember sender email addresses can be spoofed and domain names may not be what they appear! Just because you recieve an email from "investigations@fbi.gov" does not mean the FBI has sent you an email.
 3. Look for signs that someone is toying with you. Does it seem like they're trying to convince you that they're real? Are they projecting a sense of urgency?
 4. Use multiple channels to verify someone's identity. The first red flag here was the scammer saying they could only interact by email. If someone is remote, have a videocall with them, and cross reference with their linkedin, facebook, etc.  
 
