@@ -17,7 +17,7 @@ Legit looking listing.
 
 The craigslist ad asked serious applicants to call, but didn’t list a phone number. I thought this was just an oversight, since many of the other ads I'd seen had information like that missing. I replied through craigslist saying I was interested, asked for the phone number, and provided my own. 
 
-I get a text from the landlord telling me to contact him at "davidgrinde@engineers-hibernia-chevron.ca". You might think this would have seemed odd to me, but honestly the rental search involved lots of ridiclousness about phone number and emails and runarounds. I sent off an email to that address that the person replied with this:
+I get a text from the landlord telling me to contact him at "davidgrinde@engineers-hibernia-chevron.ca". You might think this would have seemed odd to me, but honestly the rental search involved lots of ridiculousness about phone number and emails and runarounds. I sent off an email to that address that the person replied with this:
 
 ![](/assets/images/phishing2.png)
 
