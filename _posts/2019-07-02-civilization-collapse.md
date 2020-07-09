@@ -1,5 +1,5 @@
 ---
-title: "Civilization Collapse: Scenarios, Prevention, Response"
+title: "Video: Civilization Collapse - Scenarios, Prevention, Response"
 categories:
 tags:
 ---
