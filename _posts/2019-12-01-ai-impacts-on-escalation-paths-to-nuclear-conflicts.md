@@ -5,7 +5,7 @@ categories:
 tags:
 ---
 
-This is an excerpt from the Foresight 2019 AGI Cooperation Report, from the section I chaired. The summary and the takeaways from the second follows.
+This is an excerpt from the Foresight 2019 AGI Cooperation Report. At the workshop, I led a session on the impact of AI on nuclear escalation paths. Here I summarize the findings from the session. 
 
 ### [Click here to view the report on its own page](/assets/2019-AGI-Cooperation-Report.pdf)
 
