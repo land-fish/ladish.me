@@ -11,11 +11,20 @@ defaults:
       author_profile: false 
 ---
 
-![image alt text](/assets/images/jeffrey1.jpg)
+![image alt text](/assets/images/me-sf.jpg)
  
-Jeffrey is an independent researcher and security consultant based in San Francisco, California.  He has written and spoken about global threats from emerging technologies, from synthethic organisms to decentralized assassination markets. He has spoken at Defcon, the Stanford Center for International Security and Cooperation, East Bay Biosecurity, and Effective Altruism Global. Jeffrey has previously worked as chief security officer for Reserve, security researcher at Paradigm Academy, and engineer at Concur Technologies.
+So, who am I and what do I do?
 
-At some point, we all have to ask ourselves what kind of future we are building. Jeffrey's answer came after a deep dive into emerging technologies and military innovation. Since the invention of nuclear weapons, a terrifying game of nuclear deterrence is all that has kept human civilization from collapsing from the impact of thousands of thermonuclear warheads. While we have achieved temporary stability, the march of technological innovation continues on, creating new threats and opportunities for humanity. 
+I have a hard time describing this part, because I tend to wear many hats. Here are a few. 🎩 
 
-Jeffrey studies the intersection of emerging technologies and global conflict. Currently, only states wield technologies powerful enough to threaten global civilization. While nuclear weapons were a clear first in their destructive power and blinding speed, advances in cyber weapons, synthetic biology, and AI will likely bring about new kinds of global threats. Will advances in machine learning harm second strike capabilities of the US, China, and Russia? Will cheap, inexpensive drone technology enable mass assassinations? How can global powers with a past history of nuclear threats and proxy wars coordinate to prevent catastrophes that would be detrimental to everyone?
+## The white hat 🔒
 
+To start with, I have security consulting company, [Gordian Research](https://gordianresearch.org). If you’re a small or medium-sized org and want to tighten up your operational security or better understand the threats you might face, feel free to send me an email.  
+
+## The risk research hat 📈 
+
+I study global catastrophic risks. My study is grounded in the history of nuclear arms races and risks of nuclear war, but extends to engineered and natural pandemics, AI, and engineered organisms. I’m interested in both the sociological and technological aspects of global risks.
+
+## The biologist hat 🦇
+
+I’m a biologist, though less a field biologist than I used to be. I mostly stay in the realm of theory, though you will still find me chasing down bats or monkeys on occasion with my binoculars in hand. In the past I studied evolutionary theory and the behavior of the aforementioned organisms. Presently, I am investigating the bioengineering risk landscape.
