@@ -120,8 +120,7 @@ Nuclear winter and human extinction: Q&A with Luke Oman (by Carl Shulman)
 
 Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE
 
-https://www.semanticscholar.org/paper/Nuclear-Winter-Responses-to-Nuclear-War-Between-the-Coupe-Bardeen/560033106c2d599bcace3ce4cb6c67d5b713ec50
-
+[https://www.semanticscholar.org/paper/Nuclear-Winter-Responses-to-Nuclear-War-Between-the-Coupe-Bardeen/560033106c2d599bcace3ce4cb6c67d5b713ec50](https://www.semanticscholar.org/paper/Nuclear-Winter-Responses-to-Nuclear-War-Between-the-Coupe-Bardeen/560033106c2d599bcace3ce4cb6c67d5b713ec50)
 
 Climate Impact of a Regional Nuclear Weapons Exchange: An Improved Assessment Based On Detailed Source Calculations
 [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD027331?fbclid=IwAR0SlQ_naiKY5k27PL0XlY-3jsocG3lomUXGf3J1g8GunDV8DPNd7birz1w](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD027331?fbclid=IwAR0SlQ_naiKY5k27PL0XlY-3jsocG3lomUXGf3J1g8GunDV8DPNd7birz1w)
