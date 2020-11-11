@@ -1,6 +1,6 @@
 ---
 title: "Video: Getting Ahead of Future Catastrophes"
-categories:
+categories: video
 tags:
 ---
 
@@ -25,10 +25,10 @@ The play-by-play:
 - 17:30 - "A deep and difficult understanding is what's required to make progress"
 - 18:45 - Incentives and disincentives for bioterrorism
 - 22:00 - State-sponsored bioweapon research
-- 24:00 - Synthetic biology risks and destabilizing ecosystems - mirror life
+- 24:00 - Synthetic biology risks and destabilizing ecosystems
 - 30:00 - Institutional Reform to Combat Existential Risk
 - 31:00 - Importance of international institutions
-- 33:30 - One World or None - https://www.goodreads.com/book/show/1681403.One_World_or_None 
+- 33:30 - One World or None - https://www.goodreads.com/book/show/1681403.One_World_or_None
 - 35:00 - Nuclear treaties
 - 37:00 - "Everyone's incentives in the longterm are aligned"
 - 39:00 - Optimizing for long term planning as an overlooked strategic lens
